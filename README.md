@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my EPortfolio](http://justinvariara.com/)
 
-- 🌱 I’m currently learning **Typescript and Bootstrap**
+- 🌱 I’m currently learning **Typescript and Tailwind with React**
 
 - 👨‍💻 All of my projects are available at [http://justinvariara.com/](http://justinvariara.com/)
 
