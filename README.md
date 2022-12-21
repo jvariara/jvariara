@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jvariara@gmail.com**
 
-- 📄 Know about my experiences [http://justinvariara.com/assets/Resume.pdf](http://justinvariara.com/assets/Resume.pdf)
+- 📄 Know about my experiences [https://www.justinvariara.com/static/media/Resume.024756f82944ded31df3.pdf](https://www.justinvariara.com/static/media/Resume.024756f82944ded31df3.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
