@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Variara</h1>
-<h3 align="center">A passionate frontend developer from the United States</h3>
+<h3 align="center">A passionate software developer from the United States</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Next.js 13 and Prisma<br><br>👨‍💻 All of my projects are available at http://justinvariara.com/<br><br>💬 Ask me about React, HTML5, CSS3, JavaScript<br><br>📫 How to reach me jvariara@gmail.com<br><br>📄 Know about my experiences https://www.justinvariara.com/static/media/Resume.16a6114dd85761e7db11.pdf
